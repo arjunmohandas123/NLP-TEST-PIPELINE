@@ -1,0 +1,8 @@
+numpy==1.26.4
+scipy==1.13.1
+sounddevice==0.4.7
+torch>=2.1,<2.4
+torchaudio>=2.1,<2.4
+deepfilternet==0.5.6
+speechbrain>=1.0,<2.0
+faster-whisper==1.0.3

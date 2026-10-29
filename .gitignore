@@ -1,0 +1,31 @@
+# --- Personal / private data: never commit ---
+voiceprint.npy
+*.npy
+*.wav
+*.flac
+*.mp3
+*.ogg
+*.m4a
+recordings/
+captured/
+speech/
+
+# Downloaded model weights
+pretrained_models/
+*.ckpt
+*.pt
+*.bin
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
